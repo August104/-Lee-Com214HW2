@@ -2,7 +2,7 @@
 On this website, you can browse information about the constellation Orion. I got this idea from the night sky at Connecticut College, where Orion is clearly visible. Below are elements of this website.
 
 1. index.html
-main homepage of the website. There is a menu where one can direct to each page.
+main homepage of the website. There is a menu where one can direct to each page.<br>
 image
 
 2. General_information.html
